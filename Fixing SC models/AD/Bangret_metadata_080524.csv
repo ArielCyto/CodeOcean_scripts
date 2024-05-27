@@ -1,0 +1,19 @@
+sample_id,donor_id,sex,Type,condition,tissue,sample_classification,drug,Drug_dosage,Target,Time
+GSM4800170,AD10,M,AD_16w,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w16
+GSM4800171,AD11,M,AD_16w,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w16
+GSM4800172,AD12,F,AD_16w,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w16
+GSM4800177,AD17,M,AD_16w,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w16
+GSM4800178,AD18,F,AD_16w,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w16
+GSM4800174,AD14,F,AD_1y,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,y1
+GSM4800175,AD15,F,AD_1y,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,y1
+GSM4800176,AD16,M,AD_1y,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,y1
+GSM4800179,AD19,M,AD_1y,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,y1
+GSM4653855,AD1,M,AD_UT,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w0
+GSM4653856,AD2,F,AD_UT,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w0
+GSM4653857,AD3,M,AD_UT,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w0
+GSM4653858,AD4,F,AD_UT,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w0
+GSM4800173,AD13,F,AD_UT,atopic dermatitis,skin,No specific classification found,Dupilumab,600mg,IL4-R,w0
+GSM4653864,HC2,F,HC,healthy,skin,Normal,,,,
+GSM4653865,HC3,F,HC,healthy,skin,Normal,,,,
+GSM4653866,HC4,F,HC,healthy,skin,Normal,,,,
+GSM4653867,HC5,M,HC,healthy,skin,Normal,,,,

@@ -1,0 +1,27 @@
+site,sub_tissue,location,donor_id,sex,condition,sample_classification,tissue,sample_id,sample_pull
+non_lesion,epidermis,Lower_back,E2,Female,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__73,SKN8090524_SKN8090525
+non_lesion,dermis,Lower_back,E2,Female,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__77,SKN8090526_SKN8090527
+lesion,epidermis,Lower_back,E2,Female,atopic dermatitis,Lesion,skin,E-MTAB-8142__81,SKN8090528_SKN8090529
+lesion,dermis,Lower_back,E2,Female,atopic dermatitis,Lesion,skin,E-MTAB-8142__85,SKN8090530_SKN8090531
+non_lesion,dermis,Lower_back,E3,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__89,SKN8090536_SKN8090537
+non_lesion,epidermis,Lower_back,E3,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__93,SKN8090538_SKN8090539
+lesion,dermis,Lower_back,E3,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__97,SKN8090540_SKN8090541
+lesion,epidermis,Lower_back,E3,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__101,SKN8090542_SKN8090543
+non_lesion,dermis,Lower_back,E4,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__105,SKN8090548_SKN8090549
+non_lesion,epidermis,Lower_back,E4,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__109,SKN8090550_SKN8090551
+lesion,dermis,Lower_back,E4,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__113,SKN8090552_SKN8090553
+lesion,epidermis,Lower_back,E4,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__117,SKN8090554_SKN8090555
+lesion,epidermis,Lower_back,E1,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__121,SKN8090560_SKN8090564
+lesion,dermis,Lower_back,E1,Male,atopic dermatitis,Lesion,skin,E-MTAB-8142__123,SKN8090561_SKN8090565
+non_lesion,epidermis,Lower_back,E1,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__125,SKN8090562_SKN8090566
+non_lesion,dermis,Lower_back,E1,Male,atopic dermatitis,Non Lesion,skin,E-MTAB-8142__127,SKN8090563_SKN8090567
+non_lesion,epidermis,Breast,S4,Female,healthy,Normal,skin,E-MTAB-8142__185,SKN8104894_SKN8104895_SKN8104896_SKN8104897
+non_lesion,dermis,Breast,S4,Female,healthy,Normal,skin,E-MTAB-8142__193,SKN8104899_SKN8104900_SKN8104901_SKN8104902
+non_lesion,epidermis,Breast,S5,Female,healthy,Normal,skin,E-MTAB-8142__201,SKN8105192_SKN8105193_SKN8105194_SKN8105195
+non_lesion,dermis,Breast,S5,Female,healthy,Normal,skin,E-MTAB-8142__209,SKN8105197_SKN8105198_SKN8105199_SKN8105200
+non_lesion,dermis,Breast,S1,Female,healthy,Normal,skin,E-MTAB-8142__1,4820STDY7388991_4820STDY7388992_4820STDY7388993_4820STDY7388994
+non_lesion,epidermis,Breast,S1,Female,healthy,Normal,skin,E-MTAB-8142__13,4820STDY7388995_4820STDY7388996_4820STDY7388997_4820STDY7388998
+non_lesion,dermis,Breast,S2,Female,healthy,Normal,skin,E-MTAB-8142__25,4820STDY7388999_4820STDY7389000_4820STDY7389001_4820STDY7389002
+non_lesion,epidermis,Breast,S2,Female,healthy,Normal,skin,E-MTAB-8142__37,4820STDY7389003_4820STDY7389004_4820STDY7389005_4820STDY7389006
+non_lesion,dermis,Breast,S3,Female,healthy,Normal,skin,E-MTAB-8142__49,4820STDY7389007_4820STDY7389008_4820STDY7389009_4820STDY7389010
+non_lesion,epidermis,Breast,S3,Female,healthy,Normal,skin,E-MTAB-8142__61,4820STDY7389011_4820STDY7389012_4820STDY7389013_4820STDY7389014
